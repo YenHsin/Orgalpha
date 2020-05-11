@@ -1,2 +1,2 @@
 # Orgalpha
-alternative plan for organic synthesis
+Compression on organic data
